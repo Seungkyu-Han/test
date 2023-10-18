@@ -1,0 +1,2 @@
+adjacency matrix (4 by 4), Tree Edges = { (0, 1), (0, 2), }
+{0, 1, 2, }, {3, }, 

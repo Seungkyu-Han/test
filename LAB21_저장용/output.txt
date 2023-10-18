@@ -1,0 +1,10 @@
+CBT 1번 노드 = 10 bf = 1
+CBT 2번 노드 = 5 bf = -2
+CBT 3번 노드 = 20 bf = -2
+CBT 4번 노드 = 3 bf = 0
+CBT 5번 노드 = 8 bf = 1
+CBT 7번 노드 = 30 bf = -1
+CBT 10번 노드 = 6 bf = -1
+CBT 11번 노드 = 9 bf = 0
+CBT 15번 노드 = 40 bf = 0
+CBT 21번 노드 = 7 bf = 0

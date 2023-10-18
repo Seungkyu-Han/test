@@ -1,0 +1,7 @@
+Optimal Binary Search Tree의 총 비용은 2이며 (32/16 = 2)
+그 토폴로지는 다음과 같습니다.
+
+Complete BT의 1번 노드 자리에 원소 15가 위치합니다.
+Complete BT의 2번 노드 자리에 원소 10가 위치합니다.
+Complete BT의 3번 노드 자리에 원소 20가 위치합니다.
+Complete BT의 7번 노드 자리에 원소 25가 위치합니다.

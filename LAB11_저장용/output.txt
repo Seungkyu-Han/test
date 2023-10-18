@@ -1,0 +1,3 @@
+inorder traversal: A/B*C*D+E
+preorder traversal: +**/ABCDE
+postorder traversal: AB/C*D*E+
